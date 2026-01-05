@@ -442,7 +442,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Zeke Mohammed**
 
-- 🎓 Electrical Engineering Graduate
+- 🎓 Engineering Physics Graduate
 - 💼 Seeking roles in: FPGA Development, Hardware Engineering, Embedded Systems
 - 🏢 Target companies: Boeing, Lockheed Martin, Northrop Grumman, Texas Instruments, Xilinx/AMD
 - 📧 Email: zeke.professional@gmail.com
