@@ -1,0 +1,19 @@
+# Python dependencies for FPGA Image Processor tools
+#
+# Install with:
+#   pip install -r requirements.txt
+
+# Serial communication
+pyserial==3.5
+
+# Image processing
+numpy==1.24.3
+opencv-python==4.8.0.74
+scipy==1.11.1
+
+# Visualization
+matplotlib==3.7.2
+Pillow==10.0.0
+
+# CLI tools
+tqdm==4.65.0

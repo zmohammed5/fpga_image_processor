@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it as below."
+authors:
+  - family-names: "Mohammed"
+    given-names: "Zeke"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "FPGA Real-Time Image Processing Accelerator"
+version: 1.0.0
+date-released: 2025-10-28
+url: "https://github.com/zmohammed5/fpga-image-processor"
+repository-code: "https://github.com/zmohammed5/fpga-image-processor"
+keywords:
+  - FPGA
+  - image processing
+  - hardware acceleration
+  - Xilinx
+  - Artix-7
+  - edge detection
+  - Gaussian blur
+  - real-time processing
+  - systolic array
+license: MIT
+abstract: >
+  A high-performance hardware accelerator for real-time image processing
+  implemented on Xilinx Artix-7 FPGA. The system achieves 50x speedup over
+  CPU implementation while consuming less than 1W of power. Features include
+  pipelined systolic array architecture, Q8.8 fixed-point arithmetic, and
+  real-time VGA output at 60 FPS.
